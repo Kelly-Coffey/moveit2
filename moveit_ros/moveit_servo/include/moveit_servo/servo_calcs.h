@@ -60,9 +60,12 @@
 #include <trajectory_msgs/msg/joint_trajectory.hpp>
 
 // moveit_servo
-#include <moveit_servo/servo_parameters.h>
-#include <moveit_servo/status_codes.h>
-#include <moveit_servo/low_pass_filter.h>
+//#include <moveit_servo/servo_parameters.h>
+#include </home/ubu/ws_moveit2/src/moveit2/moveit_ros/moveit_servo/include/moveit_servo/servo_parameters.h>
+//#include <moveit_servo/status_codes.h>
+#include </home/ubu/ws_moveit2/src/moveit2/moveit_ros/moveit_servo/include/moveit_servo/status_codes.h>
+//#include <moveit_servo/low_pass_filter.h>
+#include </home/ubu/ws_moveit2/src/moveit2/moveit_ros/moveit_servo/include/moveit_servo/low_pass_filter.h>
 
 namespace moveit_servo
 {

@@ -47,8 +47,10 @@
 #include <sensor_msgs/msg/joint_state.hpp>
 #include <std_msgs/msg/float64.hpp>
 
-#include <moveit_servo/servo_parameters.h>
-#include <moveit_servo/low_pass_filter.h>
+//#include <moveit_servo/servo_parameters.h>
+#include </home/ubu/ws_moveit2/src/moveit2/moveit_ros/moveit_servo/include/moveit_servo/servo_parameters.h>
+//#include <moveit_servo/low_pass_filter.h>
+#include </home/ubu/ws_moveit2/src/moveit2/moveit_ros/moveit_servo/include/moveit_servo/low_pass_filter.h>
 
 namespace moveit_servo
 {

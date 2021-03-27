@@ -40,9 +40,12 @@
 
 #include <memory>
 
-#include <moveit_servo/collision_check.h>
-#include <moveit_servo/servo_parameters.h>
-#include <moveit_servo/servo_calcs.h>
+//#include <moveit_servo/collision_check.h>
+#include </home/ubu/ws_moveit2/src/moveit2/moveit_ros/moveit_servo/include/moveit_servo/collision_check.h>
+//#include <moveit_servo/servo_parameters.h>
+#include </home/ubu/ws_moveit2/src/moveit2/moveit_ros/moveit_servo/include/moveit_servo/servo_parameters.h>
+//#include <moveit_servo/servo_calcs.h>
+#include </home/ubu/ws_moveit2/src/moveit2/moveit_ros/moveit_servo/include/moveit_servo/servo_calcs.h>
 
 namespace moveit_servo
 {

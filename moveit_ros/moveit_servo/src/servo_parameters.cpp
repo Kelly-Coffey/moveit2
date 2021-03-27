@@ -41,7 +41,8 @@
 
 #include <type_traits>
 #include <rclcpp/rclcpp.hpp>
-#include <moveit_servo/servo_parameters.h>
+//#include <moveit_servo/servo_parameters.h>
+#include </home/ubu/ws_moveit2/src/moveit2/moveit_ros/moveit_servo/include/moveit_servo/servo_parameters.h>
 
 using namespace std::placeholders;  // for _1, _2 etc.
 
